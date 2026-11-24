@@ -10,6 +10,14 @@ One line of horror, one sentence under 200 characters, built to frighten a reade
 
 `main.py` writes the line to `/output/entry.txt`.
 
+## The locked line
+
+Despite the "One Chill" title, this is a horror one-liner bounty: the single scariest sentence under 200 characters, judged by a horror editor on fright first. The locked entry (124 characters):
+
+> The insulation man pulled a child's shoe from my attic wall, then a second, then a third, all the same size, all still warm.
+
+Duel results before submit: 0.90 vs the best-line benchmark on Gonka and 0.85 on the APINex re-run (aggregate 0.875); 0.70 win vs the strongest sampled field line on Gonka.
+
 ## Run it
 
 ```sh
